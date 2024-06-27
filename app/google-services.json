@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008021486320",
+    "project_id": "prj1-44951",
+    "storage_bucket": "prj1-44951.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008021486320:android:f706c0f5f9a28d4d6d2035",
+        "android_client_info": {
+          "package_name": "edu.phuong.demoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-ZR6DKNZWEqqwcZNpQYgy7X8AQa5wMow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
